@@ -1,2 +1,3 @@
 # coursework_prob_learning
-archived content from probabilistic learning course
+archived content from probabilistic learning course, 2020 Winter
+
